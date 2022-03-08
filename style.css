@@ -41,11 +41,10 @@
     max-width: 330px;
 }
 .card .links i{
-    color:black;
+    color: white;
     width: 20px;
     border-radius: 40%;
     margin: 10px 5px;
-    transition: backround 1.0;
     text-decoration: none;
 }
 /* .card .links img{
@@ -55,10 +54,6 @@
     transition: background 0.5;
  } */
 
-
-.card .links i:hover{
-    background: #b10093;
-}
 .btn{
     text-decoration: none;
     display: inline-block;
