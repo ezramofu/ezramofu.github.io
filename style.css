@@ -65,3 +65,7 @@
     border-radius: 30px;
     margin: 10px 0 10px;
 }
+.card p span{
+    font-weight: 500;
+    color: #fff;
+}
